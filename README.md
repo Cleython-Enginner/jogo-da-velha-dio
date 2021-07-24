@@ -1,4 +1,4 @@
-# Jogo da Velha
+# Projeto realizado no Bootcamp JavaScript Game Developer na Digital Innvation One
 
 Projeto produzido para um bootcamp em parceria com a [Digital Innovation One](https://digitalinnovation.one).
 
