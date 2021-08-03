@@ -1,5 +1,7 @@
 body {
     text-align: center;
+    background-image:url(backgroud_jogodavelha.jpg);
+    background-position: 100%;
 }
 
 .quadrado {
@@ -21,8 +23,11 @@ body {
 
 button {
     margin-top: 10px;
-    width: 100px;
-    height: 30px;
-    background: #eee;
+    width: 200px;
+    height: 35px;
+    background: rgb(245, 6, 6);
     cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-size: medium;
 }
